@@ -1,0 +1,11 @@
+  ____   ___  _   _ _____ 
+ |  _ \ / _ \| \ | | ____|
+ | | | | | | |  \| |  _|  
+ | |_| | |_| | |\  | |___ 
+ |____/ \___/|_| \_|_____|
+
+
+
+I made this website to make it so it does not say "missed"
+
+Credits to me for the website and hicku and munneb for explaining it.
